@@ -1,6 +1,6 @@
 # Dynamic Frameworks and project configurations problem
 
-This project is demonstrating embedded frameworks usage problems with custom schemes and project configurations. Related StackOverflow topic http://stackoverflow.com/questions/29851269/dynamic-frameworks-and-project-configurations
+This project is demonstrating embedded frameworks usage problems with custom schemes and project configurations. StackOverflow topic can be found here: http://stackoverflow.com/questions/29851269/dynamic-frameworks-and-project-configurations
 
 This project contains embedded framework with one simple class in it. Project contains also these four configurations:
 
