@@ -639,6 +639,7 @@
 				BB2E296C1AEA800700DA9DCC /* Test-Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BB2E292E1AEA7B8000DA9DCC /* Build configuration list for PBXNativeTarget "ExampleAppTests" */ = {
 			isa = XCConfigurationList;
@@ -649,6 +650,7 @@
 				BB2E296D1AEA800700DA9DCC /* Test-Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
